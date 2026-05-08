@@ -90,23 +90,23 @@ export default async function HomePage() {
             <p className="text-gray-500">{tHome("products_subtitle")}</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {/* Touch Screen Card */}
+            {/* Kiosk Card - main product with stock */}
             <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-shadow">
               <div className="bg-gradient-to-br from-gray-800 to-sky-900 h-48 flex items-center justify-center">
-                <span className="text-7xl">🖥️</span>
+                <span className="text-7xl">📺</span>
               </div>
               <div className="p-6">
                 <div className="flex items-center gap-2 mb-2">
-                  <h3 className="text-xl font-bold text-gray-900">觸控螢幕</h3>
+                  <h3 className="text-xl font-bold text-gray-900">觸控直立廣告機</h3>
                   <span className="bg-sky-100 text-sky-700 text-xs font-bold px-2 py-0.5 rounded-full">熱門</span>
                 </div>
-                <p className="text-gray-500 text-sm mb-4">55" / 65" 4K 工業級，IR 20 點觸控，Android 13，庫存充足即時出貨</p>
+                <p className="text-gray-500 text-sm mb-4">55" / 65" 4K 落地直立式觸控廣告機，IR 20 點觸控，Android 13，庫存充足即時出貨</p>
                 <div className="flex gap-2 text-xs text-gray-500 mb-4">
                   <span className="bg-gray-100 px-2 py-1 rounded">55" × 28台</span>
                   <span className="bg-gray-100 px-2 py-1 rounded">65" × 2台</span>
                 </div>
                 <Link
-                  href="/products/touch-screen"
+                  href="/products/kiosk"
                   className="block text-center bg-sky-400 hover:bg-sky-300 text-white font-bold py-2.5 rounded-lg transition-colors"
                 >
                   查看規格 →
@@ -114,17 +114,17 @@ export default async function HomePage() {
               </div>
             </div>
 
-            {/* Kiosk Card */}
+            {/* Touch Screen Card - coming soon */}
             <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden opacity-75">
               <div className="bg-gradient-to-br from-gray-700 to-gray-800 h-48 flex items-center justify-center">
-                <span className="text-7xl">📺</span>
+                <span className="text-7xl">🖥️</span>
               </div>
               <div className="p-6">
                 <div className="flex items-center gap-2 mb-2">
-                  <h3 className="text-xl font-bold text-gray-900">觸控直立廣告機</h3>
+                  <h3 className="text-xl font-bold text-gray-900">觸控螢幕</h3>
                   <span className="bg-gray-100 text-gray-500 text-xs font-bold px-2 py-0.5 rounded-full">即將上架</span>
                 </div>
-                <p className="text-gray-500 text-sm mb-4">直立式落地展示，適合門市導引、展覽互動，規格洽詢業務</p>
+                <p className="text-gray-500 text-sm mb-4">壁掛式 / 桌上型觸控螢幕，規格與租金洽詢業務</p>
                 <button className="block w-full text-center border-2 border-gray-300 text-gray-500 font-bold py-2.5 rounded-lg cursor-not-allowed">
                   即將上架
                 </button>
