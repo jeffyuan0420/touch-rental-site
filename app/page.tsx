@@ -114,20 +114,23 @@ export default async function HomePage() {
               </div>
             </div>
 
-            {/* Touch Screen Card - coming soon */}
-            <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden opacity-75">
-              <div className="bg-gradient-to-br from-gray-700 to-gray-800 h-48 flex items-center justify-center">
+            {/* Touch Screen Card */}
+            <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-shadow">
+              <div className="bg-gradient-to-br from-gray-700 to-sky-800 h-48 flex items-center justify-center">
                 <span className="text-7xl">🖥️</span>
               </div>
               <div className="p-6">
                 <div className="flex items-center gap-2 mb-2">
                   <h3 className="text-xl font-bold text-gray-900">觸控螢幕</h3>
-                  <span className="bg-gray-100 text-gray-500 text-xs font-bold px-2 py-0.5 rounded-full">即將上架</span>
+                  <span className="bg-sky-100 text-sky-700 text-xs font-bold px-2 py-0.5 rounded-full">6 種尺寸</span>
                 </div>
-                <p className="text-gray-500 text-sm mb-4">壁掛式 / 桌上型觸控螢幕，規格與租金洽詢業務</p>
-                <button className="block w-full text-center border-2 border-gray-300 text-gray-500 font-bold py-2.5 rounded-lg cursor-not-allowed">
-                  即將上架
-                </button>
+                <p className="text-gray-500 text-sm mb-4">55" / 65" / 70" / 75" / 86" / 100"，KTA-PRO-FULL 系列，4K · 50點觸控 · Android 14</p>
+                <Link
+                  href="/products/touch-screen"
+                  className="block text-center bg-sky-400 hover:bg-sky-300 text-white font-bold py-2.5 rounded-lg transition-colors"
+                >
+                  查看規格 →
+                </Link>
               </div>
             </div>
           </div>
