@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "calculator": "Pricing",
+    "booking": "Book Now",
+    "faq": "FAQ",
+    "sales_btn": "Contact Sales",
+    "sales_modal_title": "Select Your Region",
+    "sales_modal_subtitle": "We'll connect you with your dedicated sales rep",
+    "sales_modal_footer": "Chat with us on LINE",
+    "sales_region_north": "North (Taipei / Keelung / Taoyuan / Hsinchu)",
+    "sales_region_central": "Central (Miaoli / Taichung / Changhua / Nantou)",
+    "sales_region_south": "South (Yunlin / Tainan / Kaohsiung / Pingtung)",
+    "products_touch_screen": "Touch Screen Display",
+    "products_kiosk": "Touch Kiosk"
+  },
+  "hero": {
+    "title": "Interactive Experience, Redefined",
+    "subtitle": "Flexible rental for touch screen displays and kiosks — perfect for exhibitions, events, and commercial spaces",
+    "cta_products": "View Products",
+    "cta_booking": "Book Now"
+  },
+  "home": {
+    "feat1_title": "Ready to Use",
+    "feat1_desc": "Brand new devices with Android 13, ready to run out of the box — no technical setup needed",
+    "feat2_title": "Flexible Duration",
+    "feat2_desc": "Daily, weekly, or monthly rental — we accommodate short events and long-term displays",
+    "feat3_title": "Software Add-ons",
+    "feat3_desc": "Pair with DMS+ CMS or ClassCraft interactive platform to maximize your touch screen's potential",
+    "use_cases_title": "Use Cases",
+    "use_cases_subtitle": "Touch devices for every interactive experience",
+    "case1_title": "Exhibitions & Events",
+    "case1_desc": "Attract visitors with interactive displays that leave a lasting impression",
+    "case2_title": "Corporate Showrooms",
+    "case2_desc": "Elevate meeting rooms and reception areas with interactive brand presentations",
+    "case3_title": "Education & Training",
+    "case3_desc": "Pair with ClassCraft for dynamic courses that boost learner engagement",
+    "case4_title": "Retail & Stores",
+    "case4_desc": "Self-service product discovery, interactive catalogs, and wayfinding",
+    "products_title": "Rental Products",
+    "products_subtitle": "In-stock and ready to ship",
+    "flow_title": "Rental Process",
+    "flow_subtitle": "5 simple steps"
+  },
+  "flow": {
+    "s1_title": "Submit Request",
+    "s1_d1": "Share event dates and location",
+    "s1_d2": "Specify screen size and quantity",
+    "s1_d3": "Describe your use case",
+    "s2_title": "Receive Quote",
+    "s2_d1": "Sales team responds within 24h",
+    "s2_d2": "Confirm rental price and accessories",
+    "s2_d3": "Sign rental agreement",
+    "s3_title": "Delivery & Setup",
+    "s3_d1": "Delivered to your specified location",
+    "s3_d2": "On-site installation assistance",
+    "s3_d3": "Device function verification",
+    "s4_title": "Use at Event",
+    "s4_d1": "Stable device operation",
+    "s4_d2": "Remote support available",
+    "s4_d3": "Contact us anytime during the rental",
+    "s5_title": "Return & Close",
+    "s5_d1": "Device pickup after event",
+    "s5_d2": "Condition check",
+    "s5_d3": "Complete return process"
+  },
+  "products": {
+    "page_title": "Rental Products",
+    "page_subtitle": "Choose the touch device that fits your needs",
+    "touch_screen_title": "Touch Screen Display",
+    "touch_screen_badge": "Popular",
+    "touch_screen_desc": "55\" / 65\" 4K industrial-grade touch screen, 20-point IR touch, Android 13 — ideal for exhibitions, meetings, and education",
+    "kiosk_title": "Touch Kiosk",
+    "kiosk_badge": "Coming Soon",
+    "kiosk_desc": "Freestanding touch kiosk with premium display, perfect for retail wayfinding and interactive exhibitions",
+    "view_details": "View Specs",
+    "spec_title": "Specifications",
+    "stock_label": "In Stock",
+    "software_title": "Software Add-ons",
+    "dms_title": "DMS+ Content Management System",
+    "dms_desc": "Android APK — remotely manage multiple screens, schedule content, split zones, and push updates in real time",
+    "classcraft_title": "ClassCraft Interactive Platform",
+    "classcraft_desc": "Windows app — classroom polling, quizzes, team competitions, and interactive sessions for training",
+    "contact_for_price": "Contact Sales for Pricing"
+  },
+  "calculator": {
+    "page_title": "Pricing Calculator",
+    "page_subtitle": "Get a quick estimate for your rental"
+  },
+  "booking": {
+    "page_title": "Book a Rental",
+    "page_subtitle": "Submit your request and we'll get back to you within 24 hours"
+  },
+  "faq": {
+    "page_title": "FAQ",
+    "page_subtitle": "Common questions about our rental service"
+  }
+}

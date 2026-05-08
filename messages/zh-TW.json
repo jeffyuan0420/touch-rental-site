@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "首頁",
+    "products": "產品",
+    "calculator": "費用試算",
+    "booking": "預約租賃",
+    "faq": "常見問題",
+    "sales_btn": "聯繫業務",
+    "sales_modal_title": "選擇您所在的區域",
+    "sales_modal_subtitle": "我們將為您連結專屬業務代表",
+    "sales_modal_footer": "透過 LINE 即時諮詢",
+    "sales_region_north": "北區（北北基桃竹）",
+    "sales_region_central": "中區（苗中彰投）",
+    "sales_region_south": "南區（雲嘉南高屏）",
+    "products_touch_screen": "觸控螢幕",
+    "products_kiosk": "觸控直立廣告機"
+  },
+  "hero": {
+    "title": "互動體驗，從此不同",
+    "subtitle": "觸控螢幕與廣告機彈性租賃，讓每一次展覽、活動、展示空間都成為品牌最好的舞台",
+    "cta_products": "查看產品",
+    "cta_booking": "立即預約"
+  },
+  "home": {
+    "feat1_title": "即租即用",
+    "feat1_desc": "設備新機出租，Android 13 系統，開箱即可運作，無需技術人員現場設定",
+    "feat2_title": "彈性時長",
+    "feat2_desc": "天租、週租、月租皆可，短期活動或長期陳列都能配合",
+    "feat3_title": "軟體加值",
+    "feat3_desc": "選配 DMS+ 內容管理系統或 ClassCraft 互動教學平台，讓觸控螢幕發揮最大效益",
+    "use_cases_title": "適用場景",
+    "use_cases_subtitle": "觸控設備適合各種需要互動體驗的場合",
+    "case1_title": "展覽活動",
+    "case1_desc": "攤位吸睛，讓訪客主動互動，留下深刻印象",
+    "case2_title": "企業展示",
+    "case2_desc": "會議室、接待大廳，品牌形象升級，互動簡報更有說服力",
+    "case3_title": "教育訓練",
+    "case3_desc": "搭配 ClassCraft，讓課程更生動，學員參與度大幅提升",
+    "case4_title": "零售門市",
+    "case4_desc": "產品介紹、導購互動、自助查詢，讓店面體驗現代化",
+    "products_title": "租賃產品",
+    "products_subtitle": "現有庫存可即時出貨",
+    "flow_title": "租賃流程",
+    "flow_subtitle": "五步驟輕鬆完成"
+  },
+  "flow": {
+    "s1_title": "填寫需求",
+    "s1_d1": "告知活動日期與地點",
+    "s1_d2": "確認螢幕尺寸與數量",
+    "s1_d3": "說明使用場景",
+    "s2_title": "報價確認",
+    "s2_d1": "業務 24 小時內回覆",
+    "s2_d2": "確認租金與配件",
+    "s2_d3": "簽署租賃合約",
+    "s3_title": "配送安裝",
+    "s3_d1": "指定地點送達",
+    "s3_d2": "協助現場安裝定位",
+    "s3_d3": "設備功能確認",
+    "s4_title": "活動使用",
+    "s4_d1": "設備穩定運行",
+    "s4_d2": "需要時遠端協助",
+    "s4_d3": "使用期間有問題隨時聯絡",
+    "s5_title": "歸還結案",
+    "s5_d1": "活動結束後收回設備",
+    "s5_d2": "確認設備狀況",
+    "s5_d3": "完成歸還手續"
+  },
+  "products": {
+    "page_title": "租賃產品",
+    "page_subtitle": "選擇最適合您需求的觸控設備",
+    "touch_screen_title": "觸控螢幕",
+    "touch_screen_badge": "熱門",
+    "touch_screen_desc": "55\" / 65\" 4K 工業級觸控螢幕，IR 觸控 20 點，Android 13，適合展覽、會議、教育等各種場合",
+    "kiosk_title": "觸控直立廣告機",
+    "kiosk_badge": "即將上架",
+    "kiosk_desc": "直立式觸控廣告機，落地展示效果佳，適合門市導引、展覽互動等場景",
+    "view_details": "查看規格",
+    "spec_title": "詳細規格",
+    "stock_label": "現有庫存",
+    "software_title": "選配軟體",
+    "dms_title": "DMS+ 內容管理系統",
+    "dms_desc": "Android APK，遠端管理多台螢幕播放內容，支援排程、分區、即時更新",
+    "classcraft_title": "ClassCraft 互動教學平台",
+    "classcraft_desc": "Windows 安裝版，課堂互動、投票、搶答、小組競賽，讓培訓更有效",
+    "contact_for_price": "租金洽詢業務"
+  },
+  "calculator": {
+    "page_title": "費用試算",
+    "page_subtitle": "快速估算您的租賃費用"
+  },
+  "booking": {
+    "page_title": "預約租賃",
+    "page_subtitle": "填寫需求，業務 24 小時內回覆"
+  },
+  "faq": {
+    "page_title": "常見問題",
+    "page_subtitle": "租賃相關問題解答"
+  }
+}
